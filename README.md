@@ -1,6 +1,7 @@
 # Analysis of AFM Force Volume Data with Python
 
 In the future this will be a bigger project on the analysis of AFM Force Volume Data.
+At present, we provide a function, nanoscopeToSQLite.py, that reads raw Nanoscope Force Volume files and stores their data in SQLite databases.
 
 Developed with python 3.7
 
